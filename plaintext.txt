@@ -1,0 +1,9 @@
+simple_fake_news_detector/
+├── data/
+│   └── news_articles.csv
+├── fake_news_detector.py
+├── text_processor.py
+├── model_trainer.py
+├── app.py
+├── README.md
+└── requirements.txt

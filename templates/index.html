@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fake News Detective</title>
+    <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Old+Standard+TT:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="newspaper-bg"></div>
+    <div class="container">
+        <header>
+            <div class="header-decoration"></div>
+            <h1><i class="fas fa-newspaper"></i> Fake News Detector <i class="fas fa-search"></i></h1>
+            <div class="subtitle">Your Trusted Source for Truth Verification</div>
+            <div class="date">Separating Facts from Fiction</div>
+            <div class="header-decoration"></div>
+        </header>
+
+        <main>
+            <div class="article-form">
+                <h2>Submit Your Article</h2>
+                <textarea id="newsText" placeholder="Enter a news article to check if it's real or fake..."></textarea>
+                <button id="detectButton">Analyze Article</button>
+            </div>
+
+            <div class="result-section" id="result" style="display: none;">
+                <div class="headline">Analysis Results</div>
+                <div class="result-content">
+                    <div id="resultText"></div>
+                    <div class="confidence-meter">
+                        <div id="confidenceBar"></div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>Powered by Logistic Regression Model • Dedicated to Truth in Journalism</p>
+            <p class="credits">Created by Shrey</p>
+        </footer>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

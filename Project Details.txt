@@ -1,0 +1,15 @@
+This simplified project covers all the essential concepts of fake news detection while being much more approachable for a beginner. It includes:
+
+1. A data generator to create sample data
+2. Simple text processing functions
+3. A basic machine learning model (Logistic Regression)
+4. A straightforward prediction interface
+5. A simple web application
+
+To use this project:
+1. Install the requirements
+2. Generate sample data
+3. Train the model
+4. Run the web application
+
+This will give you a solid foundation in text classification while being much more manageable for someone in their 2nd year of BTech.
