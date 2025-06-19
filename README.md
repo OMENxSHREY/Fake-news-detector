@@ -108,35 +108,30 @@ Visit http://127.0.0.1:5000/ in your browser to interact with the app.
 This project helped me grow in:
 
 🔠 Text data preprocessing and TF-IDF vectorization
-
 🎯 Model selection based on real-world tradeoffs
-
 🔁 Flask routing and rendering dynamic content
-
 🛠️ Building modular, full-stack ML applications
-
 🎨 User-first design in ML-driven interfaces
 
-🌍 Real-World Applications
+
+🌍 Real-World Applications:
 📡 News verification tools for journalists
-
 🛡️ Browser plugins for fact-checking
-
 📱 Filtering engines for social media platforms
-
 🎓 Educational demos for machine learning students
 
-🔮 Future Improvements
- Add multilingual fake news detection
- 
- Integrate transformer-based models (BERT)
 
- Add live URL/news scraping functionality
+🔮 Future Improvements
+ -Add multilingual fake news detection
+ -Integrate transformer-based models (BERT)
+ -Add live URL/news scraping functionality
+
 
 🌟 Bonus: Why I Built This
 I didn’t just want to train another model — I wanted to build something that mirrors a real-world product.
 
 This project combines engineering precision with human-centered design. It's my proof that I can not only build smart systems — but also make them usable, responsive, and scalable for real people.
+
 
 🤝 Connect with Me
 Let’s collaborate or geek out on AI, NLP, or product ideas:
