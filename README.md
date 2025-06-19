@@ -114,7 +114,9 @@ This project helped me grow in:
 🎨 User-first design in ML-driven interfaces
 
 
+
 🌍 Real-World Applications:
+
 📡 News verification tools for journalists
 
 🛡️ Browser plugins for fact-checking
@@ -122,6 +124,7 @@ This project helped me grow in:
 📱 Filtering engines for social media platforms
 
 🎓 Educational demos for machine learning students
+
 
 
 🔮 Future Improvements
