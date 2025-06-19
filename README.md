@@ -116,14 +116,19 @@ This project helped me grow in:
 
 🌍 Real-World Applications:
 📡 News verification tools for journalists
+
 🛡️ Browser plugins for fact-checking
+
 📱 Filtering engines for social media platforms
+
 🎓 Educational demos for machine learning students
 
 
 🔮 Future Improvements
  -Add multilingual fake news detection
+ 
  -Integrate transformer-based models (BERT)
+ 
  -Add live URL/news scraping functionality
 
 
